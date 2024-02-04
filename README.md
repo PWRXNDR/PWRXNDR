@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexander Dubranov
+==========================================================================================================================================
 
-<!--
-**PWRXNDR/PWRXNDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist / Machine Learning Engineer
+------------------------------------------
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Machine Learning and Data Science enthusiast, with a strong foundation in programming languages like Python, JavaScript, HTML, CSS, and SQL. I thrive on continually expanding my knowledge and skills in the ever-evolving field of data science.
+
+## What I Do
+
+- **Machine Learning**: Proficient in creating sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow**. This project showcases my ability to work with complex data sets and deep learning algorithms.
+- **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch**, enhancing my skills in building and deploying more advanced models.
+- **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL, I can seamlessly integrate data science applications with web interfaces and manage data effectively.
+- **Data Science Libraries**: Well-versed in a variety of libraries including **sklearn**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
+- **Problem-Solving**: Dedicated to tackling complex problems, I employ a methodical approach to break down challenges and find efficient solutions.
+
+## My Goals
+
+As a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, whether it's through innovative projects, collaborative work, or contributing to the community.
+
+## Connect With Me
+
+I'm open to collaborations, discussions, and opportunities to contribute to exciting projects in Machine Learning and Data Science. Feel free to reach out!
+
+[GitHub](https://github.com/PWRXNDR) | [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/) | [Email](mailto:pwrxndr@gmail.com)
+
+
+* 🌍  I'm based in Hungary, Budapest
+* 🖥️  See my portfolio at [My Portfolio](http://fdfdffds)
+* ✉️  You can contact me at [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
+* 🧠  I'm learning Pytorch and mastering my TensorFlow Skills.
+* 🤝  I'm open to collaborating on Machine Learning Projects
+* ⚡  I am a calisthenics athlete and coach in my free time, if you need a professional training plan - feel free to reach out!
