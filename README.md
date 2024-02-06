@@ -6,7 +6,7 @@ Data Scientist / Machine Learning Engineer
 
 ## About Me
 
-I'm a passionate Machine Learning and Data Science enthusiast, with a strong foundation in programming languages like Python, JavaScript, HTML, CSS, and SQL. I thrive on continually expanding my knowledge and skills in the ever-evolving field of data science.
+I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged with advanced concepts like deep learning, neural networks, and predictive analytics. My expertise extends to applying these techniques in practical, real-world scenarios, continually pushing the boundaries of what's possible in this exciting field.
 
 ## What I Do
 
