@@ -30,6 +30,6 @@ I'm open to collaborations, discussions, and opportunities to contribute to exci
 * 🌍  I'm based in Hungary, Budapest
 * 🖥️  See my portfolio at [My Portfolio](http://fdfdffds)
 * ✉️  You can contact me at [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
-* 🧠  I'm learning Pytorch and mastering my TensorFlow Skills.
+* 🧠  I'm learning PyTorch and mastering my TensorFlow Skills.
 * 🤝  I'm open to collaborating on Machine Learning Projects
 * ⚡  I am a calisthenics athlete and coach in my free time, if you need a professional training plan - feel free to reach out!
