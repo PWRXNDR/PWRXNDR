@@ -10,10 +10,10 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 
 ## What I Do
 
-- **Machine Learning**: Proficient in creating sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow**. This project showcases my ability to work with complex data sets and deep learning algorithms.
+- **Machine Learning**: Proficient in creating sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow** and **Food-Vision Model with PyTorch**. These projects showcases my ability to work with complex data sets and deep learning algorithms.
 - **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch**, enhancing my skills in building and deploying more advanced models.
 - **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL, I can seamlessly integrate data science applications with web interfaces and manage data effectively.
-- **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
+- **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
 - **Problem-Solving**: Dedicated to tackling complex problems, I employ a methodical approach to break down challenges and find efficient solutions.
 
 ## My Goals
