@@ -6,7 +6,7 @@ Data Scientist / Machine Learning Engineer
 
 ## About Me
 
-I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged with advanced concepts like deep learning, neural networks, and predictive analytics. My expertise extends to applying these techniques in practical, real-world scenarios, continually pushing the boundaries of what's possible in this exciting field.
+I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged with advanced concepts like deep learning, neural networks, and predictive analytics. My expertise extends to applying these techniques in practical, real-world scenarios, continually pushing the boundaries of what's possible in this field.
 
 ## What I Do
 
