@@ -10,21 +10,21 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 
 ## What I Do
 
-- **Machine Learning**: Proficient in creating sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow** and **Food-Vision Model with PyTorch**. These projects showcases my ability to work with complex data sets and deep learning algorithms.
-- **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch**, enhancing my skills with MLOps in building and deploying more advanced models.
-- **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL, I can seamlessly integrate data science applications with web interfaces and manage data effectively.
+- **Machine Learning**: Love to explore, create and employ sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow** and **Food-Vision Model with PyTorch**. 
+- **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch** and **TensorFlow**, enhancing my skills with MLOps in building and deploying more advanced models.
+- **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL.
 - **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
 - **Problem-Solving**: Dedicated to tackling complex problems, I employ a methodical approach to break down challenges and find efficient solutions.
 
 ## My Goals
 
-As a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, whether it's through innovative projects, collaborative work, or contributing to the community.
+As a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, sharing my knowledge with others through my Personal Brand **X&R**.
 
 ## Connect With Me
 
-I'm open to collaborations, discussions, and opportunities to contribute to exciting projects in Machine Learning and Data Science. Feel free to reach out!
+I'm open to collaborations, discussions, and opportunities in projects connected to Machine Learning and Data Science. Feel free to reach out!
 
-[GitHub](https://github.com/PWRXNDR) | [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/) | [Email](mailto:pwrxndr@gmail.com)
+[Medium](https://medium.com/@pwrxndr) | [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/) | [Email](mailto:pwrxndr@gmail.com)
 
 
 * 🌍  I'm based in Hungary, Budapest
