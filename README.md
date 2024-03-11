@@ -18,7 +18,7 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 
 ## My Goals
 
-As a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, sharing my knowledge with others through my Personal Brand **X&R**.
+I am a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, sharing my knowledge with others through my Personal Brand **X&R**.
 
 ## Connect With Me
 
