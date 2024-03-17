@@ -14,7 +14,6 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 - **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch** and **TensorFlow**, enhancing my skills with MLOps in building and deploying more advanced models.
 - **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL.
 - **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
-- **Problem-Solving**: Dedicated to tackling complex problems, I employ a methodical approach to break down challenges and find efficient solutions.
 
 ## My Goals
 
@@ -28,8 +27,8 @@ I'm open to collaborations, discussions, and opportunities in projects connected
 
 
 * 🌍  I'm based in Hungary, Budapest
-* 🖥️  See my portfolio at [My Portfolio](http://fdfdffds)
+* 🖥️  See my portfolio at [My Portfolio](https://pwrxndr.github.io/Alex_Dubranov/)
 * ✉️  You can contact me at [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
 * 🧠  I'm learning PyTorch and mastering my TensorFlow Skills.
 * 🤝  I'm open to collaborating on Machine Learning Projects
-* ⚡  I am a calisthenics athlete and coach in my free time, if you need a professional training plan - feel free to reach out!
+* ⚡  I am founder of the X&R, and I continiously develop online and offline presense of my company, providing Machine Learning, Web Development and Business Analytics Services. [Visit our website!](https://pwrxndr.github.io/xnr_website/)
