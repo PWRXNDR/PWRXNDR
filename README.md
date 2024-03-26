@@ -15,11 +15,7 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 - **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL.
 - **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PWRXNDR&layout=pie)](https://github.com/PWRXNDR/github-readme-stats)
-
-## My Goals
-
-I am a dedicated learner and problem solver, I am always exploring new technologies and methodologies in data science. My primary goal is to make a significant impact in the field, sharing my knowledge with others through my Personal Brand **X&R**.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PWRXNDR&hide_progress=true)
 
 ## Connect With Me
 
