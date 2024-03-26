@@ -16,6 +16,12 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 - **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PWRXNDR&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Connect With Me
 
