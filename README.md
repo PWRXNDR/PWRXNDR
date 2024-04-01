@@ -16,7 +16,7 @@ I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged wi
 - **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
 
 <a href="https://github.com/PWRXNDR/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=10&card_width=320" />
 </a>
 
 ## Connect With Me
