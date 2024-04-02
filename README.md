@@ -4,16 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI & Machine Learning Solutions Developer
 ------------------------------------------
 
-## About Me
+# About Me
 
-I'm a passionate Machine Learning and Data Science enthusiast, deeply engaged with advanced concepts like deep learning, neural networks, and predictive analytics. My expertise extends to applying these techniques in practical, real-world scenarios, continually pushing the boundaries of what's possible in this field.
+I'm an AI Integration Specialist and Web Developer at X&R, committed to blending the innovative world of machine learning with practical web development. My expertise revolves around implementing AI strategies like natural language processing and predictive analytics into dynamic web solutions. Additionally, I specialize in blockchain and smart contract technologies, leveraging my skills in Solidity to develop secure and efficient decentralized applications. I thrive on turning complex AI concepts and blockchain technologies into accessible, user-friendly web and decentralized applications.
 
 ## What I Do
 
-- **Machine Learning**: Love to explore, create and employ sophisticated models, my recent accomplishment includes developing a **Dog-Breed Recognition Model using TensorFlow** and **Food-Vision Model with PyTorch**. 
-- **Continued Learning**: Currently, I am diving deeper into Machine Learning with a focus on mastering **PyTorch** and **TensorFlow**, enhancing my skills with MLOps in building and deploying more advanced models.
-- **Programming Languages**: Skilled in Python, JavaScript (for web development and data scripting), HTML, CSS, and SQL.
-- **Data Science Libraries**: Well-versed in a variety of libraries including **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**, **NumPy**, and more, which I utilize for data manipulation, analysis, visualization, and machine learning.
+- **AI and Web Development**: I excel in integrating AI into web environments, such as developing AI-driven user interfaces and data processing tools. My notable projects include integrating chatbot functionalities and creating dynamic, AI-powered web content.
+- **Blockchain and Smart Contracts**: Specialize in blockchain technology and smart contract development using Solidity. This includes building decentralized applications (DApps) and exploring innovative uses of blockchain in various domains.
+- **Technological Proficiency**: Continuously enhancing my skills in AI, web development, and blockchain technologies. I utilize JavaScript frameworks alongside Python-based machine learning libraries and am proficient in Rust for system-level and blockchain applications.
+- **Programming Languages**: Proficient in Python for AI and machine learning, JavaScript (along with HTML and CSS) for responsive and interactive web development, and Rust for system-level programming and blockchain solutions. Also adept in SQL for database management.
+- **AI and ML Tools**: Skilled in utilizing libraries like TensorFlow and PyTorch for AI model development, coupled with front-end frameworks to create seamless user experiences.
 
 <a href="https://github.com/PWRXNDR/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=10&card_width=320" />
