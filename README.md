@@ -6,7 +6,7 @@ AI & Machine Learning Solutions Developer
 
 # About Me
 
-I'm an AI Integration Specialist and Web Developer at X&R, committed to blending the innovative world of machine learning with practical web development. My expertise revolves around implementing AI strategies like natural language processing and predictive analytics into dynamic web solutions. Additionally, I specialize in blockchain and smart contract technologies, leveraging my skills in Solidity to develop secure and efficient decentralized applications. I thrive on turning complex AI concepts and blockchain technologies into accessible, user-friendly web and decentralized applications.
+I'm an AI Integration Specialist and Web Developer, committed to blending the innovative world of machine learning with practical web development. My expertise revolves around implementing AI strategies like natural language processing and predictive analytics into dynamic web solutions. Additionally, I specialize in blockchain and smart contract technologies, leveraging my skills in Solidity to develop secure and efficient decentralized applications. I thrive on turning complex AI concepts and blockchain technologies into accessible, user-friendly web and decentralized applications.
 
 ## What I Do
 
