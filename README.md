@@ -27,9 +27,9 @@ I'm open to collaborations, discussions, and opportunities in projects connected
 [Medium](https://medium.com/@pwrxndr) | [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/) | [Email](mailto:pwrxndr@gmail.com)
 
 
-* 🌍  I'm based in Hungary, Budapest
+* 🌍  I'm based in Hungary
 * 🖥️  See my portfolio at [My Portfolio](https://pwrxndr.github.io/Alex_Dubranov/)
 * ✉️  You can contact me at [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
-* 🧠  I'm learning PyTorch and mastering my TensorFlow Skills.
+* 🧠  I'm learning Solidity and mastering my Smart Contract Development skills.
 * 🤝  I'm open to collaborating on Machine Learning Projects
-* ⚡  I am founder of the X&R, and I continiously develop online and offline presense of my company, providing Machine Learning, Web Development and Business Analytics Services. [Visit our website!](https://pwrxndr.github.io/xnr_website/)
+* ⚡  I am founder of the X&R, and I continiously develop online and offline presense of my company, providing Automation, AI-integration and Web Development servises. [Visit our website!](https://pwrxndr.github.io/xnr_website/)
