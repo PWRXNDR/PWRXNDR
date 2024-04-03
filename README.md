@@ -11,10 +11,10 @@ I'm an AI Integration Specialist and Web Developer, committed to blending the in
 ## What I Do
 
 - **AI and Web Development**: I excel in integrating AI into web environments, such as developing AI-driven user interfaces and data processing tools. My notable projects include integrating chatbot functionalities and creating dynamic, AI-powered web content.
-- **Blockchain and Smart Contracts**: Specialize in blockchain technology and smart contract development using Solidity. This includes building decentralized applications (DApps) and exploring innovative uses of blockchain in various domains.
-- **Technological Proficiency**: Continuously enhancing my skills in AI, web development, and blockchain technologies. I utilize JavaScript frameworks alongside Python-based machine learning libraries and am proficient in Rust for system-level and blockchain applications.
-- **Programming Languages**: Proficient in Python for AI and machine learning, JavaScript (along with HTML and CSS) for responsive and interactive web development, and Rust for system-level programming and blockchain solutions. Also adept in SQL for database management.
-- **AI and ML Tools**: Skilled in utilizing libraries like TensorFlow and PyTorch for AI model development, coupled with front-end frameworks to create seamless user experiences.
+- **Blockchain and Smart Contracts**: Specialize in blockchain technology and smart contract development using **Solidity**. This includes building decentralized applications (DApps) and exploring innovative uses of blockchain in various domains.
+- **Technological Proficiency**: Continuously enhancing my skills in **AI**, **web development**, and **blockchain** technologies. I utilize JavaScript frameworks alongside Python-based machine learning libraries and am proficient in Rust for system-level and blockchain applications.
+- **Programming Languages**: Proficient in **Python** for AI and machine learning, **JavaScript** (along with **HTML** and **CSS**) for responsive and interactive web development, and **Rust** for system-level programming and blockchain solutions. Also adept in **SQL** for database management.
+- **AI and ML Tools**: Skilled in utilizing libraries like **TensorFlow** and **PyTorch** for AI model development, coupled with front-end frameworks to create seamless user experiences.
 
 <a href="https://github.com/PWRXNDR/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=10&card_width=320" />
