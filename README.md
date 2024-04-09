@@ -17,7 +17,7 @@ I'm an AI Integration Specialist and Web Developer. My expertise includes incorp
 - **Blockchain and Smart Contracts**: Mastering my skills and knowledge in blockchain technology and smart contract development using **Solidity**. This includes building decentralized applications (DApps) and exploring innovative uses of blockchain in various domains.
 
 <a href="https://github.com/PWRXNDR/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=9&card_width=320" />
 </a>
 
 ## Connect With Me
