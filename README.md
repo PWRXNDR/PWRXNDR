@@ -18,7 +18,7 @@ As an AI Integration Specialist and Web Developer, I specialize in merging advan
 #### My Tech Stack
 
 - **Languages**: Python, JavaScript, HTML, CSS, Rust, SQL
-- **Frameworks/Libraries**: TensorFlow, PyTorch, React, Node.js
+- **Frameworks/Libraries**: TensorFlow, PyTorch, ScikitLearn, React, Node.js, Vue, Three.js
 - **Blockchain**: Solidity, DApps
 
 #### Connect & Collaborate
