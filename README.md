@@ -1,35 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alex Dubranov
-==========================================================================================================================================
+**Hi there!** ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-AI & Machine Learning Solutions Developer
-------------------------------------------
+### Alex Dubranov
+#### AI & Machine Learning Solutions Developer
 
-# About Me
+---
 
-I'm an AI Integration Specialist and Web Developer. My expertise includes incorporating advanced technologies such as natural language processing and predictive analytics to create dynamic web experiences. While I have a keen interest in smart contracts and blockchain technology, my primary focus is on leveraging AI to streamline and enhance web functionalities, ensuring intuitive and efficient user interactions.
+#### About Me
 
-## What I Do
+As an AI Integration Specialist and Web Developer, I specialize in merging advanced technologies with user-centric designs to enhance digital experiences. My work ranges from integrating natural language processing and predictive analytics to developing dynamic web interfaces. My passion also extends to smart contracts and blockchain technology, but my core focus remains on leveraging AI to refine and augment web functionalities.
 
-- **AI and Web Development**: I excel in integrating AI into web environments, such as developing AI-driven user interfaces and data processing tools. My notable projects include integrating chatbot functionalities and creating dynamic, AI-powered web content.
-- **Technological Proficiency**: Continuously enhancing my skills in **AI**, **web development**, and **blockchain** technologies. I utilize JavaScript frameworks alongside Python-based machine learning libraries.
-- **Programming Languages**: Proficient in **Python** for AI and machine learning, **JavaScript** (along with **HTML** and **CSS**) for responsive and interactive web development, and **Rust** for system-level programming and blockchain solutions. Also adept in **SQL** for database management.
-- **AI and ML Tools**: Skilled in utilizing libraries like **TensorFlow** and **PyTorch** for AI model development, coupled with front-end frameworks to create seamless user experiences.
-- **Blockchain and Smart Contracts**: Mastering my skills and knowledge in blockchain technology and smart contract development using **Solidity**. This includes building decentralized applications (DApps) and exploring innovative uses of blockchain in various domains.
+#### What I Do
 
-<a href="https://github.com/PWRXNDR/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=12&card_width=320" />
-</a>
+- **AI-Driven Web Development**: Expertise in embedding AI into web platforms, enhancing interfaces and automating data processes.
+- **Tech Stack Mastery**: Proficient in AI, blockchain, and web development technologies, utilizing tools like TensorFlow, PyTorch, JavaScript frameworks, Python, Rust, and Solidity.
+- **Blockchain Innovations**: Developing decentralized applications and exploring blockchain applications beyond the conventional scopes.
 
-## Connect With Me
+#### My Tech Stack
 
-I'm open to collaborations, discussions, and opportunities in projects connected to Machine Learning and Data Science. Feel free to reach out!
+- **Languages**: Python, JavaScript, HTML, CSS, Rust, SQL
+- **Frameworks/Libraries**: TensorFlow, PyTorch, React, Node.js
+- **Blockchain**: Solidity, DApps
 
-[Medium](https://medium.com/@pwrxndr) | [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/) | [Email](mailto:pwrxndr@gmail.com)
+#### Connect & Collaborate
 
+I’m keen on collaborations that push the boundaries of technology, particularly in machine learning and blockchain. Let’s connect!
 
-* 🌍  I'm based in Hungary
-* 🖥️  See my portfolio at [My Portfolio](https://pwrxndr.github.io/Alex_Dubranov/) OR if you want to EXPERIENCE my background, then I recommend to visit my [Creative Portfolio](https://threejs-portfo-9486222923cc.herokuapp.com/)
-* ✉️  You can contact me at [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
-* 🧠  I'm learning Solidity and mastering my Smart Contract Development skills.
-* 🤝  I'm open to collaborating on Machine Learning Projects
-* ⚡  I am founder of X&R, and I continiously develop online and offline presense of my company, providing Automation, AI-integration and Web Development services. [Visit our website!](https://pwrxndr.github.io/xnr_website/)
+- [**Medium**](https://medium.com/@pwrxndr)
+- [**LinkedIn**](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
+- [**Email**](mailto:pwrxndr@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=12&card_width=320)
+
+---
+
+#### More About Me
+
+- 🌍  **Location**: Hungary
+- 🖥️  **Portfolios**: [General Portfolio](https://pwrxndr.github.io/Alex_Dubranov/) | [Creative Portfolio](https://threejs-portfo-9486222923cc.herokuapp.com/)
+- ✉️  **Email**: [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
+- 🧠  **Current Learning**: Solidity, advanced Smart Contract Development
+- 🤝  **Open for Collaboration**: Particularly in AI and Machine Learning projects
+- ⚡  **Fun Fact**: Founder of X&R, focusing on automation and AI integration. [Visit X&R!](https://pwrxndr.github.io/xnr_website/)
+
+---
+
+### Focus
+
+Currently, I'm deeply engrossed in Machine Learning and crafting interactive 3D/2D web experiences using three.js and other modern JavaScript libraries. My primary focus is on evolving as a tech innovator in the AI and web development spheres, but I also try to include blockchain implementation where it is possible.
+
+---
