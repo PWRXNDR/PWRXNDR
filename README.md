@@ -31,7 +31,7 @@ I’m keen on collaborations that push the boundaries of technology, particularl
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=12&card_width=320)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&hide_progress=true&theme=tokyonight&layout=compact&langs_count=14&card_width=320)
 
 ---
 
