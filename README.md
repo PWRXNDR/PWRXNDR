@@ -1,7 +1,4 @@
-# Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-# Alex Dubranov
-## AI & Web Solutions Developer
+![Alex Dubranov](https://github.com/PWRXNDR/PWRXNDR/blob/bb64a79b1e0fc8f494f7d06163b571693067f671/ALEX%20DUBRANOV.png)
 
 ---
 
