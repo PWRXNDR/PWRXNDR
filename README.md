@@ -1,4 +1,4 @@
-![Alex Dubranov](https://github.com/PWRXNDR/PWRXNDR/blob/e35fd9de82e94a0ac80b67283903f676977994aa/ALEX%20DUBRANOV.png)
+![Alex Dubranov](https://github.com/PWRXNDR/PWRXNDR/blob/fe7c708401e49020fedd9fc97fbb89f5d514e98a/ALEX%20DUBRANOV.png)
 
 ---
 
