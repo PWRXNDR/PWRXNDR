@@ -37,7 +37,7 @@ I’m keen on collaborations that push the boundaries of technology, particularl
 - 🌍  **Location**: Hungary
 - 🖥️  **Portfolios**: [General Portfolio](https://pwrxndr.github.io/Alex_Dubranov/) | [Creative Portfolio](https://threejs-portfo-9486222923cc.herokuapp.com/)
 - ✉️  **Email**: [pwrxndr@gmail.com](mailto:pwrxndr@gmail.com)
-- 🧠  **Current Learning**: Blender and Three.js for mind-blowing web experience
+- 🧠  **Current Learning**: Blender and Three.js for mind-blowing web experiences
 - 🤝  **Open for Collaboration**: Particularly in AI and Machine Learning projects
 - ⚡  **Fun Fact**: Founder of X&R, focusing on creating amazing web applications. [Visit X&R!](https://pwrxndr.github.io/xnr_website/)
 
