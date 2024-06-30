@@ -4,7 +4,7 @@
 
 #### About Me
 
-As an AI Integration Specialist and three.js Web Developer, I specialize in merging advanced technologies with user-centric designs to enhance digital experiences. My work ranges from integrating natural language processing and predictive analytics to developing dynamic web interfaces. My services also extend to smart contracts and blockchain technology, but my core focus remains on leveraging AI to refine and augment web functionalities.
+As an AI Integration Specialist and Web Developer, I specialize in merging advanced technologies with user-centric designs to enhance digital experiences. My work ranges from integrating natural language processing and predictive analytics to developing dynamic web interfaces. My services also extend to smart contracts and blockchain technology, but my core focus remains on leveraging AI to refine and augment web functionalities.
 
 #### What I Do
 
