@@ -4,17 +4,17 @@
 
 #### About Me
 
-As an AI Integration Specialist and Web Developer, I specialize in merging advanced technologies with user-centric designs to enhance digital experiences. My work ranges from integrating natural language processing and predictive analytics to developing dynamic web interfaces. My services also extend to smart contracts and blockchain technology, but my core focus remains on leveraging AI to refine and augment web functionalities.
+As an AI Integration Specialist and Web Developer, I specialize in merging advanced technologies with user-centric designs to enhance digital experiences. My work ranges from integrating natural language processing and predictive analytics to developing dynamic web interfaces. My services also extend to 3D modeling and three.js website/mobile application development.
 
 #### What I Do
 
 - **AI-Driven Web Development**: Expertise in embedding AI into web platforms, enhancing interfaces and automating data processes.
-- **Tech Stack Mastery**: Proficient in AI, blockchain, and web development technologies, utilizing tools like TensorFlow, PyTorch, JavaScript frameworks, Python, Rust, and Solidity.
-- **Blockchain Innovations**: Developing decentralized applications and exploring blockchain applications beyond the conventional scopes.
+- **Tech Stack Mastery**: Proficient in AI, blockchain, and web development technologies, utilizing tools like TensorFlow, PyTorch, JavaScript frameworks, Python, Rust and Solidity.
+- **3D-Development**: Developing next-level 3D, VR/AR web/mobile applications, with a strong focus on performance.
 
 #### My Tech Stack
 
-- **Languages**: Python, JavaScript, TypeScript, HTML, CSS, SQL
+- **Languages**: Python, JavaScript, TypeScript, HTML, CSS, SQL, 
 - **Frameworks/Libraries**: TensorFlow, PyTorch, ScikitLearn, React, Vue, Three.js
 
 #### Connect & Collaborate
