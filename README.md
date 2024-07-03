@@ -9,7 +9,7 @@ As an AI Integration Specialist and Web Developer, I specialize in merging advan
 #### What I Do
 
 - **AI-Driven Web Development**: Expertise in embedding AI into web platforms, enhancing interfaces and automating data processes.
-- **Tech Stack Mastery**: Proficient in AI, blockchain, and web development technologies, utilizing tools like TensorFlow, PyTorch, JavaScript frameworks, Python, Rust and Solidity.
+- **Tech Stack Mastery**: Proficient in AI, blockchain, and web development technologies, utilizing tools like TensorFlow, PyTorch, JavaScript frameworks such as React & Vue.
 - **3D-Development**: Developing next-level 3D, VR/AR, Web/Mobile applications, with a strong focus on performance.
 
 #### My Tech Stack
