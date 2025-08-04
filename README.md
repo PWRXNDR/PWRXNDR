@@ -14,7 +14,7 @@ Creative Tech Developer · Founder of X&R · 3D Web Experiences · Digital Marke
 
 At **X&R**, I help brands and visionaries bring their boldest digital ideas to life through:
 
-- **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/)
+- **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/) (optionally)
 - **Immersive 3D Modeling** in Blender for web visualization and UI integration
 - **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), and social storytelling
 - **Conversion-Focused Marketing** — content strategy, Instagram growth, and creative advertising
