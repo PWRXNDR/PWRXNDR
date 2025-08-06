@@ -48,7 +48,7 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&theme=tokyonight&layout=compact&hide_border=true&hide=jupyternotebooks" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&theme=tokyonight&layout=compact&hide_border=true&hide=jupyter notebook" alt="Top Languages" />
 </p>
 
 ---
