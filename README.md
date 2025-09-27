@@ -17,7 +17,6 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 - **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/) (optionally)
 - **Immersive 3D Modeling** in Blender for web visualization and UI integration
 - **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), and social storytelling
-- **Conversion-Focused Marketing** — content strategy, Instagram growth, and creative advertising
 
 ---
 
@@ -25,7 +24,7 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 
 - **Languages**: JavaScript · TypeScript · HTML · CSS · Python
 - **Libraries/Tools**: Three.js · React · Blender · GLSL · Vite · GSAP · DaVinci Resolve
-- **Other Skills**: Branding · Marketing Strategy · Video Production · UI/UX
+- **Other Skills**: Branding · Marketing Strategy · Video Production · UI/UX · VFX
 
 ---
 
@@ -34,8 +33,7 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 - 📸 [Instagram (X&R)](https://www.instagram.com/web_xnr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
 - 💌 [Email](mailto:pwrxndr@gmail.com)
-- 🌐 [Portfolio](https://pwrxndr.github.io/Alex_Dubranov/)
-- ✨ [Creative Web Experience](https://threejs-portfo-9486222923cc.herokuapp.com/)
+- 🌐 [X&R website](xnr.vercel.app)
 
 ---
 
