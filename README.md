@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PWRXNDR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img
+    src="https://streak-stats.demolab.com/?user=PWRXNDR&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
@@ -14,7 +17,7 @@ Creative Tech Developer · Founder of X&R · 3D Web Experiences · Digital Marke
 
 At **X&R**, I help brands and visionaries bring their boldest digital ideas to life through:
 
-- **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/) 
+- **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/)
 - **Immersive 3D Modeling** in Blender for web visualization and UI integration
 - **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), and social storytelling
 
@@ -46,8 +49,10 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PWRXNDR&theme=tokyonight&layout=compact&hide_border=true&hide=Jupyter%20Notebook,html,php,rust,python,solidity,just,plpgsql,hack&include=glsl" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PWRXNDR&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,HTML,PHP,Rust,Python,Solidity,Just,PLpgSQL,Hack"
+    alt="Top Languages"
+  />
 </p>
 
 ---
-
