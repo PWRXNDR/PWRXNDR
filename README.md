@@ -9,8 +9,7 @@
 
 ### 👋 Hey, I'm Alex Dubranov
 
-Creative Tech Developer · Founder of X&R · 3D Web Experiences · Digital Marketing & Video Strategy
-
+Creative Tech Developer · Founder of X&R · 3D Web Experiences · Digital Marketing & Video Strategy & VFX
 ---
 
 #### 🚀 What I Do
@@ -19,14 +18,14 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 
 - **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/)
 - **Immersive 3D Modeling** in Blender for web visualization and UI integration
-- **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), and social storytelling
-
+- **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), VFX, and social storytelling
+- **Mixed and Augmented Reality** - Mobile app creation (Ios/Android), product visualization,UI/UX for AR workflows 
 ---
 
 #### 🧰 My Core Tech Stack
 
 - **Languages**: JavaScript · TypeScript · HTML · CSS · Python
-- **Libraries/Tools**: Three.js · React · Blender · GLSL · Vite · GSAP · DaVinci Resolve
+- **Libraries/Tools**: Three.js · React · R3F · ARkit · ARCore · Blender · GLSL · Vite · GSAP · DaVinci Resolve · Unity · Houdini
 - **Other Skills**: Branding · Marketing Strategy · Video Production · UI/UX · VFX
 
 ---
