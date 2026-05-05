@@ -35,7 +35,7 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 - 📸 [Instagram (X&R)](https://www.instagram.com/web_xnr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
 - 💌 [Email](mailto:pwrxndr@gmail.com)
-- 🌐 [X&R website](https://webxnr.com)
+- 🌐 [Portfolio](https://dubralex.com)
 
 ---
 
