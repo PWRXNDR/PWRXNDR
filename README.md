@@ -24,8 +24,8 @@ At **X&R**, I help brands and visionaries bring their boldest digital ideas to l
 
 #### 🧰 My Core Tech Stack
 
-- **Languages**: JavaScript · TypeScript · HTML · CSS · Python
-- **Libraries/Tools**: Three.js · React · R3F · ARkit · ARCore · Blender · GLSL · Vite · GSAP · DaVinci Resolve · Unity · Houdini
+- **Languages**: JavaScript · TypeScript · CSS · Python · Rust
+- **Libraries/Tools**: Three.js · React · R3F · ARkit · ARCore · Blender · WGSL/GLSL · Vite · GSAP · DaVinci Resolve · Unity · Houdini
 - **Other Skills**: Branding · Marketing Strategy · Video Production · UI/UX · VFX
 
 ---
