@@ -9,41 +9,107 @@
 
 ### 👋 Hey, I'm Alex Dubranov
 
-Creative Tech Developer · Founder of X&R · 3D Web Experiences · Digital Marketing & Video Strategy & VFX
----
+**Lead Graphics Engineer · Creative Developer · WebGPU / Three.js · Realtime 3D · Founder of X&R**
 
-#### 🚀 What I Do
+I build realtime graphics, interactive 3D experiences, product configurators, shaders, and tools for the web.
 
-At **X&R**, I help brands and visionaries bring their boldest digital ideas to life through:
-
-- **Interactive 3D Web Experiences** with [Three.js](https://threejs.org/) + [React](https://reactjs.org/)
-- **Immersive 3D Modeling** in Blender for web visualization and UI integration
-- **Cinematic Content Creation** — video shooting, editing (DaVinci Resolve), VFX, and social storytelling
-- **Mixed and Augmented Reality** - Mobile app creation (Ios/Android), product visualization,UI/UX for AR workflows 
----
-
-#### 🧰 My Core Tech Stack
-
-- **Languages**: JavaScript · TypeScript · CSS · Python · Rust
-- **Libraries/Tools**: Three.js · React · R3F · ARkit · ARCore · Blender · WGSL/GLSL · Vite · GSAP · DaVinci Resolve · Unity · Houdini
-- **Other Skills**: Branding · Marketing Strategy · Video Production · UI/UX · VFX
+My work sits somewhere between **graphics engineering, creative development, 3D pipelines, and visual experimentation**.
 
 ---
 
-#### 🔗 Connect With Me
+### 🚀 What I Do
 
-- 📸 [Instagram (X&R)](https://www.instagram.com/web_xnr/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
-- 💌 [Email](mailto:pwrxndr@gmail.com)
-- 🌐 [Portfolio](https://dubralex.com)
+At **X&R** and through my work as a graphics engineer, I focus on:
+
+* **Realtime 3D experiences** with Three.js, WebGPU, WebGL, React, and TypeScript
+* **3D product configurators** for furniture, interiors, products, automotive, and other interactive use cases
+* **Custom shaders & GPU effects** using WGSL, GLSL, TSL, particles, procedural animation, and post-processing
+* **Web 3D asset pipelines** including glTF/GLB, model optimization, Meshopt, KTX2, material systems, and runtime asset loading
+* **Graphics performance & tooling** for browser-based 3D applications across desktop and mobile
+* **3D & VFX workflows** using Blender, Houdini, DaVinci Resolve, and Nuke
+
+I especially enjoy projects where the technical side and visual direction have to work together instead of being treated as separate problems.
 
 ---
 
-#### 🔄 Now Working On
+### 🧰 Core Stack
 
-- 💡 Custom Three.js experiences for architecture, tech, and creative brands
-- 🏗️ Building a scalable creative studio under the **X&R** umbrella
-- 📈 Helping businesses grow via digital design, storytelling, and performance-focused websites
+**Graphics**
+
+* Three.js
+* WebGPU
+* WebGL
+* WGSL
+* GLSL
+* TSL
+* React Three Fiber
+* GPU particle systems
+* Realtime rendering
+* Post-processing
+
+**Development**
+
+* TypeScript
+* JavaScript
+* React
+* Next.js
+* Vite
+* GSAP
+* Node.js
+* Python
+
+**3D & Asset Pipeline**
+
+* Blender
+* glTF / GLB
+* Meshopt
+* KTX2 / BasisU
+* Material pipelines
+* Geometry & texture optimization
+* Runtime asset systems
+
+**VFX / Realtime**
+
+* Houdini
+* Nuke
+* DaVinci Resolve Studio
+* Unity
+* Compositing
+* Procedural VFX
+
+---
+
+### 🔬 Things I'm Especially Interested In
+
+* WebGPU rendering architecture
+* GPU simulation and compute shaders
+* Advanced realtime materials and shaders
+* High-quality browser rendering
+* Scalable 3D asset pipelines
+* Interactive product visualization
+* 3D configurator systems
+* Dynamic environments
+* Performance optimization for realtime 3D
+* Bringing techniques from games and VFX into the browser
+
+---
+
+### 🔗 Connect With Me
+
+* 🌐 [Portfolio](https://dubralex.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
+* 📸 [X&R](https://www.instagram.com/web_xnr/)
+* 💌 [Email](mailto:pwrxndr@gmail.com)
+
+---
+
+### 🔄 Currently Working On
+
+* Building realtime **WebGPU / Three.js** graphics systems and tools
+* Developing scalable pipelines for processing and rendering 3D assets on the web
+* Creating interactive **3D product configurators and immersive brand experiences**
+* Exploring GPU particles, shaders, dynamic environments, and realtime VFX
+* Growing **X&R** around high-end interactive and 3D web work
 
 ---
 
