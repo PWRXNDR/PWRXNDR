@@ -9,7 +9,7 @@
 
 ### 👋 Hey, I'm Alex Dubranov
 
-**Lead Graphics Engineer · Creative Developer · WebGPU / Three.js · Realtime 3D · Founder of X&R**
+**Lead Graphics Engineer · Creative Developer · WebGPU / Three.js · Realtime 3D · Founder of VariState**
 
 I build realtime graphics, interactive 3D experiences, product configurators, shaders, and tools for the web.
 
@@ -19,7 +19,7 @@ My work sits somewhere between **graphics engineering, creative development, 3D 
 
 ### 🚀 What I Do
 
-At **X&R** and through my work as a graphics engineer, I focus on:
+At **VariState** and through my work as a graphics engineer, I focus on:
 
 * **Realtime 3D experiences** with Three.js, WebGPU, WebGL, React, and TypeScript
 * **3D product configurators** for furniture, interiors, products, automotive, and other interactive use cases
