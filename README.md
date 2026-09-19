@@ -109,7 +109,7 @@ I especially enjoy projects where the technical side and visual direction have t
 * Developing scalable pipelines for processing and rendering 3D assets on the web
 * Creating interactive **3D product configurators and immersive brand experiences**
 * Exploring GPU particles, shaders, dynamic environments, and realtime VFX
-* Growing **X&R** around high-end interactive and 3D web work
+* Growing **VariState** around high-end interactive and 3D web work
 
 ---
 
