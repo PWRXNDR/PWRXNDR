@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">GitHub Linguist language byte totals from 241 owned, non-fork repositories on 16 October 2026. CSS, HTML, Jupyter Notebook, PHP, Python, Solidity, Just, PLpgSQL and Hack are excluded. TypeScript is 78.15 percent of the displayed languages.</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .lang { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+  </style>
+  <rect x="0" y="0" width="300" height="190" rx="5" fill="#1a1b27" />
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  <clipPath id="progress-clip"><rect x="25" y="55" width="250" height="8" rx="4" /></clipPath>
+  <g clip-path="url(#progress-clip)">
+  <rect x="25.00" y="55" width="195.37" height="8" fill="#3178c6" />
+  <rect x="220.37" y="55" width="43.71" height="8" fill="#f1e05a" />
+  <rect x="264.08" y="55" width="2.94" height="8" fill="#5686a5" />
+  <rect x="267.03" y="55" width="1.62" height="8" fill="#00b4ab" />
+  <rect x="268.65" y="55" width="1.44" height="8" fill="#1a5e9a" />
+  <rect x="270.08" y="55" width="1.28" height="8" fill="#dea584" />
+  <rect x="271.37" y="55" width="0.63" height="8" fill="#178600" />
+  <rect x="271.99" y="55" width="0.58" height="8" fill="#41b883" />
+  <rect x="272.58" y="55" width="2.42" height="8" fill="#4b5267" />
+  </g>
+  <circle cx="30" cy="84" r="5" fill="#3178c6" />
+  <text x="40" y="88" class="lang">TypeScript 78.15%</text>
+  <circle cx="30" cy="109" r="5" fill="#f1e05a" />
+  <text x="40" y="113" class="lang">JavaScript 17.48%</text>
+  <circle cx="30" cy="134" r="5" fill="#5686a5" />
+  <text x="40" y="138" class="lang">GLSL 1.18%</text>
+  <circle cx="30" cy="159" r="5" fill="#00b4ab" />
+  <text x="40" y="163" class="lang">Dart 0.65%</text>
+  <circle cx="180" cy="84" r="5" fill="#1a5e9a" />
+  <text x="190" y="88" class="lang">WGSL 0.57%</text>
+  <circle cx="180" cy="109" r="5" fill="#dea584" />
+  <text x="190" y="113" class="lang">Rust 0.51%</text>
+  <circle cx="180" cy="134" r="5" fill="#178600" />
+  <text x="190" y="138" class="lang">C# 0.25%</text>
+  <circle cx="180" cy="159" r="5" fill="#41b883" />
+  <text x="190" y="163" class="lang">Vue 0.23%</text>
+</svg>
