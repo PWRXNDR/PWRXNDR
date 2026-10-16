@@ -98,7 +98,7 @@ I especially enjoy projects where the technical side and visual direction have t
 
 * 🌐 [Portfolio](https://dubralex.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/aleksandr-dubranov-394481281/)
-* 📸 [X&R](https://www.instagram.com/web_xnr/)
+* 📸 [VariState](https://www.instagram.com/varistate/)
 * 💌 [Email](mailto:pwrxndr@gmail.com)
 
 ---
