@@ -113,22 +113,15 @@ I especially enjoy projects where the technical side and visual direction have t
 
 ---
 
-### Languages in my repositories
+<p align="center">
+  <img
+    src="./assets/top-languages.svg"
+    width="300"
+    height="190"
+    alt="Most Used Languages: TypeScript 78.15%, JavaScript 17.48%, and six other languages"
+  />
+</p>
 
-Snapshot from **16 October 2026**, based on GitHub's detected language bytes across **241 owned, non-fork repositories**, including private projects. Of these, 228 have detected languages. This shares only aggregate percentages; private repository names and code remain private.
-
-| Language | Share |
-| --- | ---: |
-| TypeScript | 43.64% |
-| Jupyter Notebook | 30.56% |
-| JavaScript | 9.76% |
-| CSS | 7.08% |
-| HTML | 5.59% |
-| Python | 0.73% |
-| GLSL | 0.66% |
-| Dart | 0.36% |
-| WGSL | 0.32% |
-| Rust | 0.29% |
-| Other languages | 1.00% |
+<p align="center"><sub>GitHub language snapshot, 16 October 2026 · 241 owned repositories, including private projects · CSS, HTML, Jupyter Notebook, and previous exclusions omitted</sub></p>
 
 ---
