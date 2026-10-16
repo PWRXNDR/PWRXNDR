@@ -122,6 +122,4 @@ I especially enjoy projects where the technical side and visual direction have t
   />
 </p>
 
-<p align="center"><sub>GitHub language snapshot, 16 October 2026 · 241 owned repositories, including private projects · CSS, HTML, Jupyter Notebook, and previous exclusions omitted</sub></p>
-
 ---
